@@ -1,0 +1,64 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0575
+HEADER 1  - Drug Score                        : 0.2274
+HEADER 2  - Number of alpha spheres           :    68
+HEADER 3  - Mean alpha-sphere radius          : 3.8245
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4905
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 38.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 613.2421
+HEADER 10  -Pocket volume (convex hull)       : 145.7517
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 28.9231
+HEADER 13 - Number of apolar alpha sphere     :    39
+HEADER 14 - Proportion of apolar alpha sphere : 0.5735
+ATOM   1744  CG2 ILE   251     -12.195   5.023  51.437  0.00  0.00           C 0
+ATOM   1751  CG1 ILE   252     -13.925   0.161  53.877  0.00  0.00           C 0
+ATOM   1746    N ILE   252     -11.437   1.704  53.098  0.00  0.00           N 0
+ATOM   1774  CD1 PHE   255     -12.154   5.875  55.453  0.00  0.00           C 0
+ATOM   1747   CA ILE   252     -11.742   1.268  54.457  0.00  0.00           C 0
+ATOM   1776  CE1 PHE   255     -12.917   6.822  54.790  0.00  0.00           C 0
+ATOM   1773   CG PHE   255     -12.398   5.571  56.783  0.00  0.00           C 0
+ATOM   1891  CD1 LEU   269     -18.995  -1.813  53.805  0.00  0.00           C 0
+ATOM   1717   CB PRO   248     -14.921  -0.741  48.311  0.00  0.00           C 0
+ATOM   1753  CD1 ILE   252     -14.764  -1.098  53.831  0.00  0.00           C 0
+ATOM   1892  CD2 LEU   269     -18.301  -0.533  55.842  0.00  0.00           C 0
+ATOM   1775  CD2 PHE   255     -13.432   6.227  57.434  0.00  0.00           C 0
+ATOM   1855   CB ALA   265     -15.610  -0.984  58.735  0.00  0.00           C 0
+ATOM   1838    O SER   263     -15.559   2.398  63.298  0.00  0.00           O 0
+ATOM   1852   CA ALA   265     -16.159  -0.912  60.149  0.00  0.00           C 0
+ATOM   1772   CB PHE   255     -11.572   4.538  57.501  0.00  0.00           C 0
+ATOM   1752  CG2 ILE   252     -12.633  -0.604  55.875  0.00  0.00           C 0
+ATOM   1833   CB CYX   262     -13.092   6.036  64.211  0.00  0.00          CB 0
+ATOM   1714   CA PRO   248     -13.748   0.185  48.629  0.00  0.00           C 0
+ATOM   1742   CB ILE   251     -11.743   3.762  50.714  0.00  0.00           C 0
+ATOM   1745  CD1 ILE   251     -12.633   4.593  48.472  0.00  0.00           C 0
+ATOM   1851    N ALA   265     -15.114  -0.502  61.077  0.00  0.00           N 0
+ATOM   1749    O ILE   252     -10.417   1.455  56.453  0.00  0.00           O 0
+ATOM   1785  OG1 THR   256     -10.077   0.227  59.397  0.68  3.21           O 0
+ATOM   1777  CE2 PHE   255     -14.199   7.174  56.776  0.00  0.00           C 0
+ATOM   1778   CZ PHE   255     -13.940   7.471  55.451  0.00  0.00           C 0
+ATOM   1813   SG CYX   259     -11.014   8.532  63.314  0.00  0.00          SG 0
+ATOM   1834   SG CYX   262     -12.743   7.799  64.087  0.00  0.00          SG 0
+ATOM   1847  CD2 HIP   264     -11.387  -1.931  62.120  0.00  0.00           C 0
+ATOM   1842   CA HIP   264     -14.152   0.005  63.245  0.00  0.00           C 0
+ATOM   1845   CB HIP   264     -13.393  -1.268  63.630  0.00  0.00           C 0
+ATOM   1832    O CYX   262     -12.797   3.103  65.648  0.00  0.00           O 0
+ATOM   1817    O PRO   260      -8.921   3.421  66.432  0.00  0.00           O 0
+ATOM   1784  CG2 THR   256      -8.272   0.017  61.030  0.00  0.00           C 0
+ATOM   1811    O CYX   259      -9.649   5.353  63.526  0.51  2.14           O 0
+ATOM   1716    O PRO   248     -12.811   0.180  50.831  0.00  0.00           O 0
+ATOM   1780   CA THR   256      -8.965   2.266  60.111  0.00  0.00           C 0
+ATOM   1812   CB CYX   259     -10.016   7.641  62.090  0.00  0.00          CB 0
+ATOM   1779    N THR   256      -9.510   2.993  58.979  0.00  0.00           N 0
+ATOM   1782    O THR   256      -7.298   3.123  61.556  0.53  1.07           O 0
+ATOM   1770    C PHE   255      -9.546   4.321  58.942  0.00  0.00           C 0
+ATOM   1771    O PHE   255      -9.179   5.035  59.878  0.43  1.07           O 0
+TER
+END

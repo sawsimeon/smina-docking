@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1031
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8177
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5891
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.9154
+HEADER 10  -Pocket volume (convex hull)       : 5.2062
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM   2152   CA ARG   300     -19.321 -19.728  20.691  0.00  0.00           C 0
+ATOM   2154    O ARG   300     -19.433 -22.094  20.313  0.39  1.07           O 0
+ATOM   2183   CB ILE   303     -19.660 -22.791  24.351  0.00  0.00           C 0
+ATOM   2194   NE ARG   304     -24.231 -22.277  19.989  0.46  2.19           N 0
+ATOM   2144   CB PHE   299     -16.725 -17.526  23.537  0.00  0.00           C 0
+ATOM   2156   CG ARG   300     -21.392 -18.376  20.035  0.00  0.00           C 0
+ATOM   2151    N ARG   300     -18.221 -18.954  21.260  0.00  0.00           N 0
+ATOM   2186  CD1 ILE   303     -19.660 -20.756  25.890  0.00  0.00           C 0
+ATOM   2185  CG2 ILE   303     -20.904 -23.332  25.038  0.00  0.00           C 0
+ATOM   2196  NH1 ARG   304     -25.869 -20.670  20.141  0.00  0.00           N 0
+ATOM   2195   CZ ARG   304     -24.817 -21.181  19.516  0.00  0.00           C 0
+ATOM   2116    O ARG   296     -17.998 -15.956  20.548  0.00  0.00           O 0
+ATOM   2118   CG ARG   296     -19.635 -13.035  20.882  0.00  0.00           C 0
+ATOM   2114   CA ARG   296     -17.193 -13.776  21.163  0.00  0.00           C 0
+ATOM   2050   CB ALA   289     -18.465 -12.472  25.735  0.00  0.00           C 0
+TER
+END

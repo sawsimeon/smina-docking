@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0338
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9647
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4445
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 18.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.5030
+HEADER 10  -Pocket volume (convex hull)       : 6.3962
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1191    O ASP   170      -0.885  -8.737  63.865  0.46  8.57           O 0
+ATOM   1066    O ASN   145       3.019  -9.259  65.435  0.48  7.50           O 0
+ATOM   1147  CG1 VAL   164       1.561 -14.941  66.784  0.00  0.00           C 0
+ATOM   1146   CB VAL   164       0.248 -15.213  66.062  0.00  0.00           C 0
+ATOM   1095   CB SER   156       0.596 -13.645  70.188  0.00  0.00           C 0
+ATOM   1092   CA SER   156      -0.282 -13.281  71.371  0.00  0.00           C 0
+ATOM   1153   CB ALA   165      -5.130 -15.433  66.691  0.00  0.00           C 0
+ATOM   1195  OD2 ASP   170      -5.627 -10.025  65.866  0.63  8.57           O 0
+ATOM   1149    N ALA   165      -2.797 -16.118  66.470  0.60  1.09           N 0
+ATOM   1152    O ALA   165      -3.533 -14.280  64.394  0.60  2.14           O 0
+ATOM   1100    O GLN   157      -3.948 -16.067  72.517  0.72  8.57           O 0
+ATOM   1192   CB ASP   170      -3.835  -9.636  64.356  0.00  0.00           C 0
+ATOM   1201  CG1 VAL   171      -0.679 -12.205  62.152  0.00  0.00           C 0
+ATOM   1075   CB CYX   146       3.759 -12.645  64.188  0.00  0.00          CB 0
+TER
+END

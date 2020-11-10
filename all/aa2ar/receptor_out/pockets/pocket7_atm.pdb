@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0447
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1484
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6995
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 74.5000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.3491
+HEADER 10  -Pocket volume (convex hull)       : 3.3303
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8889
+ATOM   1777  CE2 PHE   255     -14.199   7.174  56.776  0.00  0.00           C 0
+ATOM   1801   CB PHE   258      -6.105   8.120  58.661  0.00  0.00           C 0
+ATOM   1775  CD2 PHE   255     -13.432   6.227  57.434  0.00  0.00           C 0
+ATOM   1776  CE1 PHE   255     -12.917   6.822  54.790  0.00  0.00           C 0
+ATOM   1778   CZ PHE   255     -13.940   7.471  55.451  0.00  0.00           C 0
+ATOM   1774  CD1 PHE   255     -12.154   5.875  55.453  0.00  0.00           C 0
+ATOM   1773   CG PHE   255     -12.398   5.571  56.783  0.00  0.00           C 0
+ATOM   1769   CA PHE   255     -10.099   4.925  57.661  0.00  0.00           C 0
+ATOM   1765    O CYS   254      -7.388   5.357  57.252  0.00  0.00           O 0
+ATOM   1768    N PHE   255      -9.327   4.503  56.495  0.00  0.00           N 0
+ATOM   1812   CB CYX   259     -10.016   7.641  62.090  0.00  0.00          CB 0
+ATOM   1764    C CYS   254      -8.019   4.726  56.405  0.00  0.00           C 0
+ATOM   1766   CB CYS   254      -7.531   5.073  53.968  0.00  0.00           C 0
+ATOM   1803  CD1 PHE   258      -5.313   7.633  56.338  0.00  0.00           C 0
+ATOM   1799    C PHE   258      -6.705   7.669  61.074  0.00  0.00           C 0
+ATOM   1800    O PHE   258      -6.415   8.683  61.684  0.50  2.14           O 0
+ATOM   1771    O PHE   255      -9.179   5.035  59.878  0.43  1.07           O 0
+TER
+END

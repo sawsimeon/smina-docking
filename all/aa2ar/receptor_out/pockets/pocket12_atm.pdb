@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0175
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8885
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6461
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 67.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.8083
+HEADER 10  -Pocket volume (convex hull)       : 7.0418
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   1970  CG2 THR   279     -18.012  -9.825  40.881  0.00  0.00           C 0
+ATOM    123  CD2 LEU    19     -20.196 -16.665  37.381  0.00  0.00           C 0
+ATOM   1991  CG1 VAL   282     -17.359 -14.060  37.126  0.00  0.00           C 0
+ATOM    101  CG1 ILE    16     -18.140 -14.761  43.782  0.00  0.00           C 0
+ATOM     96    N ILE    16     -18.242 -17.729  43.171  0.00  0.00           N 0
+ATOM     97   CA ILE    16     -17.339 -16.787  42.524  0.00  0.00           C 0
+ATOM     93    C ALA    15     -18.732 -18.786  42.533  0.00  0.00           C 0
+ATOM     94    O ALA    15     -18.501 -19.023  41.347  0.00  0.00           O 0
+ATOM     95   CB ALA    15     -20.998 -19.124  43.536  0.00  0.00           C 0
+ATOM    122  CD1 LEU    19     -19.913 -19.038  38.129  0.00  0.00           C 0
+ATOM     70    O VAL    12     -19.562 -16.955  45.700  0.00  0.00           O 0
+ATOM     72  CG1 VAL    12     -20.973 -14.544  47.199  0.00  0.00           C 0
+ATOM   1992  CG2 VAL   282     -15.875 -14.093  39.142  0.00  0.00           C 0
+ATOM   1990   CB VAL   282     -16.301 -13.303  37.915  0.00  0.00           C 0
+ATOM     68   CA VAL    12     -21.164 -17.040  47.486  0.00  0.00           C 0
+ATOM     73  CG2 VAL    12     -22.891 -15.505  48.488  0.00  0.00           C 0
+TER
+END

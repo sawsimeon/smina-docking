@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0843
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.9531
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4842
+HEADER 5  - Mean B-factor of pocket residues  : 0.6954
+HEADER 6  - Hydrophobicity Score              : 21.1667
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 393.4050
+HEADER 10  -Pocket volume (convex hull)       : 40.6731
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0333
+ATOM    513    O LEU H  40      13.660  -9.141   9.147  0.00  0.00           O 0
+ATOM    510    N LEU H  40      12.317  -8.353   6.812  0.00  0.00           N 0
+ATOM    504   CB GLU H  39      13.592 -10.527   5.105  0.00  0.00           C 0
+ATOM   1747  NE2 GLN H 151       7.571 -12.442   8.590  0.00  0.00           N 0
+ATOM    514   CB LEU H  40      11.088  -7.735   8.846  0.00  0.00           C 0
+ATOM    517  CD2 LEU H  40       9.834  -7.615  11.030  0.00  0.00           C 0
+ATOM   2190   CA GLY H 193      11.346  -9.106  14.238  0.00  0.00           C 0
+ATOM    775   NZ LYS H  60F     19.909 -11.081  13.253  0.59  6.56           N 1
+ATOM    522    O LEU H  41      15.857  -7.835  12.267  0.46  8.57           O 0
+ATOM    526  CD2 LEU H  41      17.949  -8.629   8.365  0.00  0.00           C 0
+ATOM   2184   CG GLU H 192      12.271 -13.356  14.701  0.00  0.00           C 0
+ATOM   2767  CE2 PHE I   2       9.211  -8.545   4.732  0.00  0.00           C 0
+ATOM   2187  OE2 GLU H 192      14.126 -14.723  14.193  0.24  9.64           O 1
+ATOM    507  OE1 GLU H  39      15.064 -13.007   5.172  0.00  0.00           O 0
+ATOM   2189    N GLY H 193      11.705 -10.133  15.205  0.64  5.47           N 0
+ATOM   2185   CD GLU H 192      12.884 -14.671  14.313  0.00  0.00           C 0
+ATOM   2186  OE1 GLU H 192      12.131 -15.645  14.124  0.00  0.00           O 0
+ATOM    728   CE LYS H  60F     21.179 -11.152  12.474  0.00  0.00           C 0
+ATOM    791   CZ PHE H  60H     21.506  -9.344   8.307  0.00  0.00           C 0
+ATOM    453  NH2 ARG H  35      19.699 -12.290   6.014  0.38  7.66           N 0
+ATOM   1664    O TRP H 141       6.443  -7.908  12.083  0.00  0.00           O 0
+ATOM   1689  OD1 ASN H 143       7.843 -13.640  13.439  0.00  0.00           O 0
+ATOM   2182    O GLU H 192       9.662 -11.068  15.172  0.89  1.07           O 0
+ATOM    506   CD GLU H  39      15.567 -11.987   5.687  0.00  0.00           C 0
+ATOM   1678   CA GLY H 142       7.670  -8.853  14.429  0.00  0.00           C 0
+ATOM    508  OE2 GLU H  39      16.444 -12.045   6.576  0.00  0.00           O 1
+TER
+END

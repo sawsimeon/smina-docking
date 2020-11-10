@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0727
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5552
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4028
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 34.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 80.4402
+HEADER 10  -Pocket volume (convex hull)       : 0.7304
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    374  OD1 ASP    52      -8.476 -11.844  38.030  0.10  3.21           O 0
+ATOM   1979  OD1 ASN   280     -10.209  -7.212  39.291  0.52  2.14           O 0
+ATOM    351  CD1 LEU    48      -5.381  -8.991  34.944  0.00  0.00           C 0
+ATOM    375  OD2 ASP    52      -8.761 -11.794  35.856  0.70  1.07           O 0
+ATOM   1637    O ILE   238     -10.987  -3.261  34.592  0.00  0.00           O 0
+ATOM   1640  CG2 ILE   238      -9.819  -5.269  32.447  0.00  0.00           C 0
+ATOM   1978  ND2 ASN   280     -12.081  -6.389  38.364  0.34  1.09           N 0
+ATOM   2007  OD1 ASN   284     -11.850  -8.030  33.851  0.57  1.07           O 0
+ATOM    650   OG SER    91      -4.672  -9.251  38.441  0.55  4.29           O 0
+ATOM   1665   CB PHE   242      -9.461  -3.326  37.979  0.00  0.00           C 0
+ATOM   1667  CD1 PHE   242      -7.961  -5.030  39.050  0.00  0.00           C 0
+ATOM   2006  ND2 ASN   284      -9.851  -8.994  33.504  0.74  2.19           N 0
+ATOM    682  CD1 LEU    95      -6.207  -3.852  35.568  0.00  0.00           C 0
+ATOM    683  CD2 LEU    95      -6.276  -4.754  33.232  0.00  0.00           C 0
+ATOM    352  CD2 LEU    48      -6.548  -8.411  32.808  0.00  0.00           C 0
+TER
+END
