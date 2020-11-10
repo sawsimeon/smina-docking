@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0975
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0068
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6419
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -17.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.4290
+HEADER 10  -Pocket volume (convex hull)       : 14.3910
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   1776   CB LYS   497       3.982  29.882  36.882  0.00  0.00           C 0
+ATOM   2133   CB ARG   557       6.894  27.502  34.478  0.00  0.00           C 0
+ATOM   2129    N ARG   557       7.518  25.312  35.435  0.00  0.00           N 0
+ATOM   2134   CG ARG   557       5.955  26.854  33.458  0.00  0.00           C 0
+ATOM   2136   NE ARG   557       3.648  27.017  32.603  0.59  3.28           N 0
+ATOM   1750  ND1 HIS   494       0.524  26.398  40.787  0.53  6.56           N 0
+ATOM   1780   NZ LYS   497       7.168  28.004  39.209  0.00  0.00           N 0
+ATOM   1751  CD2 HIS   494       1.834  27.301  42.307  0.00  0.00           C 0
+ATOM   1753  NE2 HIS   494       1.498  26.081  42.706  0.00  0.00           N 0
+ATOM   1752  CE1 HIS   494       0.686  25.519  41.765  0.00  0.00           C 0
+ATOM   2137   CZ ARG   557       2.360  27.371  32.795  0.00  0.00           C 0
+ATOM   1749   CG HIS   494       1.240  27.539  41.102  0.00  0.00           C 0
+ATOM   1777   CG LYS   497       4.815  29.585  38.130  0.00  0.00           C 0
+ATOM   1748   CB HIS   494       1.282  28.753  40.205  0.00  0.00           C 0
+ATOM   2135   CD ARG   557       4.805  27.797  33.097  0.00  0.00           C 0
+ATOM   1666   CG GLU   486      -2.578  28.163  35.480  0.00  0.00           C 0
+ATOM   1665   CB GLU   486      -3.539  27.001  35.224  0.00  0.00           C 0
+ATOM   1717  ND2 ASN   491      -4.791  25.380  38.876  0.00  0.00           N 0
+ATOM   1668  OE1 GLU   486      -0.509  28.966  34.559  0.68  1.07           O 0
+ATOM   2139  NH2 ARG   557       1.367  26.610  32.315  0.00  0.00           N 0
+ATOM   2138  NH1 ARG   557       2.089  28.495  33.473  0.80  1.09           N 0
+ATOM   1667   CD GLU   486      -1.485  28.216  34.411  0.00  0.00           C 0
+TER
+END

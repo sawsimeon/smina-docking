@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0921
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8831
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5659
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 15.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.0711
+HEADER 10  -Pocket volume (convex hull)       : 3.4732
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5833
+ATOM    323  OE2 GLU    35      23.351  -5.712  46.644  0.00  0.00           O 0
+ATOM    383   OH TYR    40      23.382   2.053  43.363  0.86  1.07           O 0
+ATOM    365   CD LYS    39      20.633   0.226  44.800  0.00  0.00           C 0
+ATOM    367   NZ LYS    39      21.917   1.490  46.525  0.00  0.00           N 0
+ATOM    294  CE2 PHE    32      27.861  -3.333  42.277  0.00  0.00           C 0
+ATOM    292  CD2 PHE    32      27.614  -4.665  42.640  0.00  0.00           C 0
+ATOM    209   OG SER    24      29.822  -2.929  45.436  0.00  0.00           O 0
+ATOM    330   SG CYS    36      24.840  -2.716  40.692  0.00  0.00           S 0
+ATOM    114   CB PRO    13      26.987   1.237  43.103  0.00  0.00           C 0
+ATOM    115   CG PRO    13      26.952   0.446  41.804  0.00  0.00           C 0
+ATOM    319   CB GLU    35      22.192  -5.934  44.193  0.00  0.00           C 0
+ATOM    317    C GLU    35      21.160  -4.809  42.213  0.00  0.00           C 0
+ATOM    318    O GLU    35      20.249  -4.005  42.414  0.61  1.07           O 0
+ATOM    381  CE2 TYR    40      22.740   0.627  41.554  0.00  0.00           C 0
+ATOM    325    N CYS    36      22.102  -4.597  41.297  0.00  0.00           N 0
+ATOM    326   CA CYS    36      22.085  -3.371  40.498  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0542
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0450
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6771
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -4.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.7240
+HEADER 10  -Pocket volume (convex hull)       : 13.0945
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM   2048   CB LYS   223      56.111 -29.888  25.449  0.00  0.00           C 0
+ATOM   2049   CG LYS   223      56.468 -31.365  25.318  0.00  0.00           C 0
+ATOM   2050   CD LYS   223      57.825 -31.669  25.906  0.00  0.00           C 0
+ATOM   2007   CA PHE   220      53.501 -28.409  29.104  0.00  0.00           C 0
+ATOM   2051   CE LYS   223      58.922 -31.040  25.054  0.00  0.00           C 0
+ATOM   2052   NZ LYS   223      60.268 -31.210  25.669  0.68  9.84           N 0
+ATOM   1973   CG GLU   216      55.136 -26.336  35.559  0.00  0.00           C 0
+ATOM   2010   CB PHE   220      52.710 -28.875  30.323  0.00  0.00           C 0
+ATOM   1971    O GLU   216      53.869 -26.065  32.336  0.00  0.00           O 0
+ATOM   1976  OE2 GLU   216      57.297 -26.796  34.668  0.52  3.21           O 0
+ATOM   1595  OD1 ASN   178      50.847 -28.776  33.649  0.73  9.64           O 0
+ATOM   1998    O ASN   219      54.983 -26.922  27.282  0.61  3.21           O 0
+ATOM   1999   CB ASN   219      56.306 -25.116  29.752  0.00  0.00           C 0
+ATOM   2006    N PHE   220      54.024 -27.065  29.314  0.00  0.00           N 0
+ATOM   1997    C ASN   219      54.714 -26.423  28.374  0.00  0.00           C 0
+ATOM   2013  CD2 PHE   220      52.510 -31.383  30.278  0.00  0.00           C 0
+ATOM   2096  NH2 ARG   227      54.493 -33.331  25.608  0.00  0.00           N 0
+ATOM   1596  ND2 ASN   178      50.573 -30.879  32.902  0.68  5.47           N 0
+TER
+END

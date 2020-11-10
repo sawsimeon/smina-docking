@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0977
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.2609
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6213
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 71.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 148.4307
+HEADER 10  -Pocket volume (convex hull)       : 0.4643
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM    460  CD2 LEU   344      -7.498  55.545  41.777  0.00  0.00           C 0
+ATOM    743   CE MET   372      -7.462  57.313  37.478  0.00  0.00           C 0
+ATOM    694   CB ALA   367      -8.722  62.703  38.784  0.00  0.00           C 0
+ATOM    675   CA TRP   366      -4.127  62.856  38.453  0.00  0.00           C 0
+ATOM    495  CG2 VAL   347      -3.352  55.290  38.770  0.00  0.00           C 0
+ATOM    494  CG1 VAL   347      -1.871  55.964  40.697  0.00  0.00           C 0
+ATOM    670    C ALA   365      -2.060  61.586  38.684  0.00  0.00           C 0
+ATOM    671    O ALA   365      -1.848  62.099  39.818  0.35  9.64           O 0
+ATOM    676    C TRP   366      -5.409  62.684  37.668  0.00  0.00           C 0
+ATOM    690    N ALA   367      -6.446  63.352  38.160  0.00  0.00           N 0
+ATOM    674    N TRP   366      -3.088  61.930  37.941  0.00  0.00           N 0
+ATOM    677    O TRP   366      -5.468  61.936  36.733  0.73  1.07           O 0
+ATOM    672   CB ALA   365      -1.514  59.134  38.332  0.00  0.00           C 0
+TER
+END

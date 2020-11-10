@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0366
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9193
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6829
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -37.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.7982
+HEADER 10  -Pocket volume (convex hull)       : 3.0707
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   1530   CD PRO   171      43.414 -42.835  36.034  0.00  0.00           C 0
+ATOM   1528   CB PRO   171      43.213 -41.363  37.866  0.00  0.00           C 0
+ATOM   1529   CG PRO   171      42.555 -42.534  37.264  0.00  0.00           C 0
+ATOM   1539  NE2 GLN   172      48.212 -41.338  40.660  0.00  0.00           N 0
+ATOM   1531    N GLN   172      45.726 -39.609  36.864  0.00  0.00           N 0
+ATOM   1535   CB GLN   172      47.840 -39.078  37.967  0.00  0.00           C 0
+ATOM   1533    C GLN   172      47.174 -38.007  35.794  0.00  0.00           C 0
+ATOM   1534    O GLN   172      48.236 -37.398  35.696  0.19  2.14           O 0
+ATOM   1519  OD1 ASN   170      47.653 -43.603  31.835  0.00  0.00           O 0
+ATOM   1514   CA ASN   170      44.776 -42.495  33.564  0.00  0.00           C 0
+ATOM   1524    N PRO   171      43.876 -41.493  35.630  0.00  0.00           N 0
+ATOM   1515    C ASN   170      44.453 -41.270  34.430  0.00  0.00           C 0
+ATOM   1558   CD PRO   174      49.268 -37.148  32.300  0.00  0.00           C 0
+ATOM   1543    N ASP   173      46.347 -38.235  34.781  0.00  0.00           N 0
+ATOM   1517   CB ASN   170      45.857 -42.133  32.535  0.00  0.00           C 0
+ATOM   1544   CA ASP   173      46.609 -37.769  33.436  0.00  0.00           C 0
+TER
+END

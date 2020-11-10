@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0957
+HEADER 1  - Drug Score                        : 0.5351
+HEADER 2  - Number of alpha spheres           :    66
+HEADER 3  - Mean alpha-sphere radius          : 4.0198
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5008
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 20.5000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 560.0931
+HEADER 10  -Pocket volume (convex hull)       : 88.2365
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 37.9524
+HEADER 13 - Number of apolar alpha sphere     :    42
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM   2120   NZ LYS   229      53.510 -26.582  12.998  0.67  6.56           N 0
+ATOM   2118   CD LYS   229      52.787 -28.713  13.957  0.00  0.00           C 0
+ATOM   2166  CD1 LEU   233      54.686 -30.787  10.746  0.00  0.00           C 0
+ATOM   2130   CG GLU   230      56.944 -33.122  15.794  0.00  0.00           C 0
+ATOM   2331    O ASP   253      52.515 -22.770  17.351  0.76  3.21           O 0
+ATOM   2119   CE LYS   229      52.321 -27.409  13.344  0.00  0.00           C 0
+ATOM   2371  CG2 VAL   257      51.974 -24.551  20.192  0.00  0.00           C 0
+ATOM   2117   CG LYS   229      51.739 -29.301  14.865  0.00  0.00           C 0
+ATOM   2074   CA LYS   226      54.286 -29.916  19.264  0.00  0.00           C 0
+ATOM   2333   CG ASP   253      55.977 -23.490  14.619  0.00  0.00           C 0
+ATOM   2078   CG LYS   226      56.836 -30.022  19.052  0.00  0.00           C 0
+ATOM   2077   CB LYS   226      55.637 -29.513  19.862  0.00  0.00           C 0
+ATOM   2081   NZ LYS   226      58.980 -27.864  18.766  0.00  0.00           N 0
+ATOM   2133  OE2 GLU   230      58.571 -32.272  17.314  0.00  0.00           O 0
+ATOM   2334  OD1 ASP   253      57.200 -23.734  14.570  0.00  0.00           O 0
+ATOM   2030    O ARG   222      53.985 -27.727  22.493  0.65  3.21           O 0
+ATOM   2076    O LYS   226      54.414 -31.768  17.743  0.00  0.00           O 0
+ATOM   2080   CE LYS   226      58.600 -28.526  20.046  0.00  0.00           C 0
+ATOM   2044    N LYS   223      54.625 -28.131  24.607  0.00  0.00           N 0
+ATOM   2045   CA LYS   223      55.334 -29.348  24.250  0.00  0.00           C 0
+ATOM   2051   CE LYS   223      58.922 -31.040  25.054  0.00  0.00           C 0
+ATOM   2048   CB LYS   223      56.111 -29.888  25.449  0.00  0.00           C 0
+ATOM   2116   CB LYS   229      52.343 -30.352  15.757  0.00  0.00           C 0
+ATOM   2070  CG1 VAL   225      50.045 -27.894  19.474  0.00  0.00           C 0
+ATOM   2033   CD ARG   222      55.155 -22.919  23.693  0.00  0.00           C 0
+ATOM   2031   CB ARG   222      54.335 -25.098  24.496  0.00  0.00           C 0
+ATOM   2029    C ARG   222      53.995 -27.417  23.683  0.00  0.00           C 0
+ATOM   2363  CD2 LEU   256      49.310 -26.026  16.225  0.00  0.00           C 0
+ATOM   2332   CB ASP   253      55.456 -22.700  15.811  0.00  0.00           C 0
+ATOM   2335  OD2 ASP   253      55.167 -23.876  13.740  0.00  0.00           O 0
+ATOM   2342   CG LEU   254      54.888 -19.567  20.631  0.00  0.00           C 0
+ATOM   2337    N LEU   254      53.733 -20.889  17.642  0.00  0.00           N 0
+ATOM   2338   CA LEU   254      53.148 -20.554  18.946  0.00  0.00           C 0
+ATOM   2036  NH1 ARG   222      57.775 -22.012  24.088  0.00  0.00           N 0
+ATOM   1998    O ASN   219      54.983 -26.922  27.282  0.61  3.21           O 0
+ATOM   2002  ND2 ASN   219      57.145 -23.033  28.933  0.43  5.47           N 0
+ATOM   2330    C ASP   253      53.355 -21.961  16.944  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0375
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5641
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4053
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 30.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 79.9044
+HEADER 10  -Pocket volume (convex hull)       : 0.7704
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM   3988    O PRO   449      31.080 -31.378  45.047  0.47  1.07           O 0
+ATOM   3993   CA VAL   450      29.477 -31.809  42.818  0.00  0.00           C 0
+ATOM   3839    N GLN   433      26.131 -31.296  48.175  0.65  3.28           N 0
+ATOM   3843   CB GLN   433      26.929 -28.994  48.487  0.00  0.00           C 0
+ATOM   3842    O GLN   433      24.403 -29.202  46.954  0.00  0.00           O 0
+ATOM   3998  CG2 VAL   450      28.434 -30.061  41.330  0.00  0.00           C 0
+ATOM   3975    O LYS   448      31.306 -28.462  44.774  0.43  2.14           O 0
+ATOM   3997  CG1 VAL   450      27.458 -32.341  41.425  0.00  0.00           C 0
+ATOM   3836  CG2 THR   432      24.219 -33.444  46.185  0.00  0.00           C 0
+ATOM   2580  CD1 TYR   280      23.641 -30.506  42.501  0.00  0.00           C 0
+ATOM   3872   CG LEU   436      25.706 -26.541  43.127  0.00  0.00           C 0
+ATOM   3846  OE1 GLN   433      27.592 -26.209  47.178  0.48  2.14           O 0
+ATOM   4000    N VAL   451      29.118 -33.859  44.074  0.88  2.19           N 0
+ATOM   3873  CD1 LEU   436      25.544 -27.485  41.940  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0569
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8556
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4958
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 46.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.1896
+HEADER 10  -Pocket volume (convex hull)       : 6.6107
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   2090   CB ARG   227      54.182 -34.337  21.143  0.00  0.00           C 0
+ATOM   2140   OG SER   231      52.724 -38.123  17.064  0.00  0.00           O 0
+ATOM   2103    N MET   228      52.006 -33.755  19.157  0.76  1.09           N 0
+ATOM   2088    C ARG   227      53.244 -34.132  18.844  0.00  0.00           C 0
+ATOM   1453  CG1 VAL   163      47.369 -38.122  20.871  0.00  0.00           C 0
+ATOM   2091   CG ARG   227      55.216 -35.396  21.468  0.00  0.00           C 0
+ATOM   2092   CD ARG   227      55.094 -35.773  22.932  0.00  0.00           C 0
+ATOM   2108   CG MET   228      49.289 -34.170  20.382  0.00  0.00           C 0
+ATOM   2095  NH1 ARG   227      53.665 -35.453  25.334  0.29  9.84           N 0
+ATOM   2060    O SER   224      51.646 -32.200  21.818  0.63  1.07           O 0
+ATOM   1567  CE1 PHE   175      48.395 -34.279  26.350  0.00  0.00           C 0
+ATOM   1569   CZ PHE   175      47.885 -33.334  25.456  0.00  0.00           C 0
+ATOM   1473  CG2 ILE   165      46.197 -37.212  25.008  0.00  0.00           C 0
+ATOM   2109   SD MET   228      47.646 -33.725  21.026  0.00  0.00           S 0
+ATOM   2104   CA MET   228      50.855 -34.138  18.345  0.00  0.00           C 0
+ATOM   1454  CG2 VAL   163      47.403 -36.911  18.687  0.00  0.00           C 0
+TER
+END

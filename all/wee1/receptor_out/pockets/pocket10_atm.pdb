@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0265
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0579
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6936
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 25.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 455.3213
+HEADER 10  -Pocket volume (convex hull)       : 50.9304
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM    801    O TYR   378      11.273  57.162  27.404  0.56  7.50           O 0
+ATOM    822    N ASN   380      11.770  55.946  23.891  0.75  1.09           N 0
+ATOM    827   CG ASN   380      14.273  56.831  22.308  0.00  0.00           C 0
+ATOM    828  OD1 ASN   380      14.462  55.691  22.698  0.75  2.14           O 0
+ATOM    826   CB ASN   380      12.879  57.462  22.292  0.00  0.00           C 0
+ATOM    829  ND2 ASN   380      15.235  57.634  21.864  0.00  0.00           N 0
+ATOM    193   NZ LYS   315       9.604  62.818  20.528  0.00  0.00           N 0
+ATOM    286  CD1 ILE   324      11.166  64.204  23.948  0.00  0.00           C 0
+ATOM    807  CE2 TYR   378      10.151  59.465  23.286  0.00  0.00           C 0
+ATOM    809   OH TYR   378       9.019  58.920  21.236  0.58  5.36           O 0
+ATOM   1368   OG SER   435      14.535  54.209  27.252  0.00  0.00           O 0
+ATOM   1365    C SER   435      16.029  52.657  24.597  0.00  0.00           C 0
+ATOM    805  CD2 TYR   378      10.141  59.557  24.694  0.00  0.00           C 0
+ATOM    282    O ILE   324       9.812  62.143  28.958  0.51  5.36           O 0
+ATOM    283   CB ILE   324      10.165  63.550  26.168  0.00  0.00           C 0
+ATOM    279    N ILE   324      10.681  64.712  28.289  0.76  1.09           N 0
+ATOM    273   CB CYS   323      11.942  65.242  30.856  0.00  0.00           C 0
+ATOM    274   SG CYS   323      13.575  65.290  31.653  0.00  0.00           S 0
+ATOM    270   CA CYS   323      11.755  66.247  29.705  0.00  0.00           C 0
+TER
+END

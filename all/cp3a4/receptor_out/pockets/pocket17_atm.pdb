@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0487
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7871
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4753
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 61.6667
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.8143
+HEADER 10  -Pocket volume (convex hull)       : 5.7980
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM     82  CD2 LEU     8      27.760  11.122  28.807  0.00  0.00           C 0
+ATOM     79   CB LEU     8      26.387   9.909  30.513  0.00  0.00           C 0
+ATOM   3095   CB PHE   348      25.435   9.087  23.946  0.00  0.00           C 0
+ATOM   3094    O PHE   348      26.004   6.673  25.910  0.82  4.29           O 0
+ATOM     78    O LEU     8      23.481  10.585  30.770  0.00  0.00           O 0
+ATOM     94  CG1 ILE    10      24.220   6.548  31.737  0.00  0.00           C 0
+ATOM   3089   CE MET   347      21.415   4.319  28.705  0.00  0.00           C 0
+ATOM     87    O GLY     9      21.264   8.770  33.419  0.50  6.43           O 0
+ATOM   3091    N PHE   348      23.800   7.296  24.325  0.58  4.37           N 0
+ATOM     96  CD1 ILE    10      25.080   5.725  30.802  0.00  0.00           C 0
+ATOM   3083   CA MET   347      21.732   6.047  24.432  0.00  0.00           C 0
+ATOM   3080    O GLY   346      19.807   7.889  23.810  0.00  0.00           O 0
+ATOM   3086   CB MET   347      21.766   4.843  25.372  0.00  0.00           C 0
+ATOM   3087   CG MET   347      22.852   4.943  26.433  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.1225
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8631
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5814
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -4.6667
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 274.2150
+HEADER 10  -Pocket volume (convex hull)       : 8.8640
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM    232   OG SER   190      21.718  52.763   6.356  0.56  4.29           O 0
+ATOM    557   NZ LYS   247      24.216  45.707   5.112  0.00  0.00           N 0
+ATOM    252  OE1 GLU   194      24.786  49.924   9.568  0.45  6.43           O 0
+ATOM    253  OE2 GLU   194      23.079  51.243  10.188  0.57  5.36           O 0
+ATOM    556   CE LYS   247      25.684  45.800   5.073  0.00  0.00           C 0
+ATOM    242  CG2 THR   191      24.582  51.376   4.105  0.00  0.00           C 0
+ATOM    285    O ASP   212      15.210  53.900   5.172  0.81  3.21           O 0
+ATOM    296   OG SER   213      14.184  49.928   3.256  0.00  0.00           O 0
+ATOM    207    O LEU   105      18.359  52.471   2.695  0.66  1.07           O 0
+ATOM    269  ND2 ASN   210      18.525  52.379   7.979  0.56  9.84           N 0
+ATOM    295   CB SER   213      13.667  51.225   3.539  0.00  0.00           C 0
+ATOM    266   CB ASN   210      16.820  54.026   8.359  0.00  0.00           C 0
+ATOM    206    C LEU   105      19.341  52.588   3.418  0.00  0.00           C 0
+ATOM    199    O SER   104      22.165  49.495   2.830  0.50  2.14           O 0
+ATOM    205   CA LEU   105      20.590  51.751   3.174  0.00  0.00           C 0
+ATOM    200   CB SER   104      19.799  47.461   2.513  0.00  0.00           C 0
+ATOM    198    C SER   104      21.079  49.556   2.247  0.00  0.00           C 0
+ATOM    204    N LEU   105      20.302  50.636   2.271  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0907
+HEADER 1  - Drug Score                        : 0.4209
+HEADER 2  - Number of alpha spheres           :    50
+HEADER 3  - Mean alpha-sphere radius          : 4.0366
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5127
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -11.3077
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.5385
+HEADER 9  - Pocket volume (Monte Carlo)       : 717.6051
+HEADER 10  -Pocket volume (convex hull)       : 140.6896
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 25.7059
+HEADER 13 - Number of apolar alpha sphere     :    34
+HEADER 14 - Proportion of apolar alpha sphere : 0.6800
+ATOM    341  CE1 HIP    37      17.123  -5.377  34.554  0.00  0.00           C 0
+ATOM    388    C GLY    41      17.181  -1.314  35.207  0.00  0.00           C 0
+ATOM   3275   CE LYS   367      13.142  -5.732  33.736  0.00  0.00           C 0
+ATOM    387   CA GLY    41      16.532  -0.714  36.441  0.00  0.00           C 0
+ATOM   3342   CG GLU   373      14.823 -17.599  42.310  0.00  0.00           C 0
+ATOM   3238    O ARG   364      15.483 -13.330  37.871  0.00  0.00           O 0
+ATOM   3344  OE1 GLU   373      14.545 -16.066  44.125  0.38  7.50           O 0
+ATOM   3239   CB ARG   364      17.802 -14.956  37.817  0.00  0.00           C 0
+ATOM    310   CB MET    34      21.225 -10.070  41.294  0.00  0.00           C 0
+ATOM    315    N GLU    35      21.596  -7.267  42.222  0.00  0.00           N 0
+ATOM    352   CD LYS    38      15.575  -6.360  44.095  0.00  0.00           C 0
+ATOM    320   CG GLU    35      22.264  -7.158  45.095  0.00  0.00           C 0
+ATOM   3244  NH1 ARG   364      18.841 -18.634  40.000  0.46  5.47           N 0
+ATOM   3241   CD ARG   364      19.684 -16.243  38.802  0.00  0.00           C 0
+ATOM   3343   CD GLU   373      14.962 -17.195  43.772  0.00  0.00           C 0
+ATOM   3267   CD PRO   366      13.651 -11.311  38.342  0.00  0.00           C 0
+ATOM   3265   CB PRO   366      11.365 -11.170  38.699  0.00  0.00           C 0
+ATOM    351   CG LYS    38      15.711  -5.200  43.109  0.00  0.00           C 0
+ATOM    347   CA LYS    38      16.792  -4.536  40.862  0.00  0.00           C 0
+ATOM   3258  OD1 ASP   365      13.654  -9.285  35.322  0.17  5.36           O 0
+ATOM    340  CD2 HIP    37      17.432  -7.017  35.980  0.00  0.00           C 0
+ATOM    350   CB LYS    38      16.800  -5.484  42.066  0.00  0.00           C 0
+ATOM    313   CE MET    34      19.351 -11.755  39.317  0.00  0.00           C 0
+ATOM    346    N LYS    38      17.959  -4.782  40.017  0.00  0.00           N 0
+ATOM   3253   CA ASP   365      15.061 -11.573  35.767  0.00  0.00           C 0
+ATOM    342  NE2 HIP    37      16.750  -6.603  34.860  0.00  0.00           N 0
+ATOM    336    O HIP    37      17.320  -3.355  38.405  0.47  3.21           O 0
+ATOM    316   CA GLU    35      21.227  -6.103  43.019  0.00  0.00           C 0
+ATOM    309    O MET    34      19.925  -6.971  40.746  0.60  2.14           O 0
+ATOM    391    N LYS    42      16.840  -0.761  34.048  0.00  0.00           N 0
+ATOM    312   SD MET    34      20.394 -12.547  40.506  0.00  0.00           S 0
+ATOM   3345  OE2 GLU   373      15.497 -18.003  44.566  0.00  0.00           O 0
+ATOM   3205   OH TYR   360      22.869 -17.147  40.666  0.58  9.64           O 0
+ATOM   3335   CG PRO   372      12.888 -15.671  39.278  0.00  0.00           C 0
+ATOM    308    C MET    34      20.897  -7.610  41.143  0.00  0.00           C 0
+ATOM   3266   CG PRO   366      12.560 -11.783  39.295  0.00  0.00           C 0
+ATOM    353   CE LYS    38      14.499  -6.103  45.146  0.00  0.00           C 0
+TER
+END

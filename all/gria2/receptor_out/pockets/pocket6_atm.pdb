@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0779
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9335
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5441
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 43.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.6242
+HEADER 10  -Pocket volume (convex hull)       : 8.5468
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM    960    O HID   300       0.863  57.098 -13.648  0.56  7.50           O 0
+ATOM   2744    O ALA   487       5.707  53.386 -13.811  0.77  2.14           O 0
+ATOM   2745   CB ALA   487       4.553  53.517 -16.882  0.00  0.00           C 0
+ATOM   2742   CA ALA   487       5.925  53.380 -16.196  0.00  0.00           C 0
+ATOM   2770   CB LEU   490       8.556  55.803 -13.356  0.00  0.00           C 0
+ATOM   2772  CD1 LEU   490       9.283  56.836 -15.539  0.00  0.00           C 0
+ATOM   2775    N ALA   491       6.604  54.296 -11.243  0.00  0.00           N 0
+ATOM   2806   NZ LYS   494       4.849  61.314 -10.025  0.00  0.00           N 0
+ATOM    111  CD1 LEU    90      10.416  58.485 -10.822  0.00  0.00           C 0
+ATOM   2779   CB ALA   491       4.286  53.619 -10.678  0.00  0.00           C 0
+ATOM   2769    O LEU   490       7.946  55.748 -10.167  0.77  2.14           O 0
+ATOM   2768    C LEU   490       7.730  54.989 -11.114  0.00  0.00           C 0
+ATOM   2776   CA ALA   491       5.558  54.355 -10.216  0.00  0.00           C 0
+ATOM    961   CB HID   300       1.306  56.159 -10.570  0.00  0.00           C 0
+ATOM   2805   CE LYS   494       5.697  60.682  -9.000  0.00  0.00           C 0
+ATOM    112  CD2 LEU    90       9.760  60.358  -9.242  0.00  0.00           C 0
+ATOM    964  CD2 HID   300       1.764  58.121  -8.904  0.00  0.00           C 0
+ATOM   2804   CD LYS   494       4.871  59.730  -8.133  0.00  0.00           C 0
+TER
+END

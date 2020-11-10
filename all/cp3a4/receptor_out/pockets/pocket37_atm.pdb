@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.1961
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 4.1615
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5572
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 3.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 511.0381
+HEADER 10  -Pocket volume (convex hull)       : 39.2797
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.8667
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.4839
+ATOM   3483    O ILE   388      12.813 -15.934  23.062  0.70  2.14           O 0
+ATOM   4186   NZ LYS   840      15.671 -18.274  16.747  0.60  6.56           N 0
+ATOM   3461   CA ASP   386       8.844 -18.811  21.177  0.00  0.00           C 0
+ATOM   3463    O ASP   386       8.769 -16.452  21.572  0.00  0.00           O 0
+ATOM   3499   CA PRO   390      16.729 -14.490  21.727  0.00  0.00           C 0
+ATOM   3502   CB PRO   390      16.535 -14.439  20.214  0.00  0.00           C 0
+ATOM   3531    O TYR   393      19.531 -16.565  24.570  0.44  4.29           O 0
+ATOM   3492    O ASP   389      15.887 -14.369  24.411  0.00  0.00           O 0
+ATOM   3486  CG2 ILE   388      13.981 -17.450  26.053  0.00  0.00           C 0
+ATOM   3450    O LYS   385      10.541 -19.620  23.187  0.00  0.00           O 0
+ATOM   3421  CD1 PHE   380      14.546 -22.818  26.451  0.00  0.00           C 0
+ATOM   3487  CD1 ILE   388      12.456 -20.059  26.591  0.00  0.00           C 0
+ATOM   3452   CG LYS   385      11.292 -22.775  21.855  0.00  0.00           C 0
+ATOM   3534  CD1 TYR   393      18.231 -19.262  26.076  0.00  0.00           C 0
+ATOM   3423  CE1 PHE   380      15.399 -21.772  26.830  0.00  0.00           C 0
+ATOM   2834  ND2 ASN   322      17.385 -24.983  24.544  0.00  0.00           N 0
+ATOM   3536  CE1 TYR   393      18.711 -20.560  26.256  0.00  0.00           C 0
+ATOM   3484   CB ILE   388      12.628 -17.789  25.430  0.00  0.00           C 0
+ATOM   3455   NZ LYS   385      11.101 -22.448  18.898  0.00  0.00           N 0
+ATOM   4185   CE LYS   840      14.936 -18.142  15.454  0.00  0.00           C 0
+ATOM   3464   CB ASP   386       7.829 -18.771  20.027  0.00  0.00           C 0
+ATOM   3504   CD PRO   390      14.591 -13.539  21.128  0.00  0.00           C 0
+ATOM   3503   CG PRO   390      15.599 -13.291  20.041  0.00  0.00           C 0
+ATOM   4184   CD LYS   840      14.637 -19.502  14.837  0.00  0.00           C 0
+ATOM   3453   CD LYS   385      11.577 -23.896  20.862  0.00  0.00           C 0
+TER
+END

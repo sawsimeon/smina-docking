@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1009
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 4.0801
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5575
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 2.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 346.1728
+HEADER 10  -Pocket volume (convex hull)       : 19.2229
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0690
+ATOM    406   CA ASP   339     -13.800  49.826  36.918  0.00  0.00           C 0
+ATOM    440   CB ASN   342      -9.949  47.775  37.200  0.00  0.00           C 0
+ATOM    400    O VAL   338     -13.089  47.906  38.783  0.69  1.07           O 0
+ATOM    412  OD2 ASP   339     -14.823  49.078  33.840  0.00  0.00           O 0
+ATOM    402  CG1 VAL   338     -14.964  45.704  38.768  0.00  0.00           C 0
+ATOM    472  NH2 ARG   345      -9.173  45.382  40.037  0.00  0.00           N 0
+ATOM   1568   CB GLU   476      -8.877  41.509  34.901  0.00  0.00           C 0
+ATOM   1552  NE2 GLN   474     -13.355  39.649  41.913  0.00  0.00           N 0
+ATOM   1572  OE2 GLU   476     -11.146  40.598  33.636  0.00  0.00           O 0
+ATOM   1564    N GLU   476      -8.313  39.712  36.510  0.74  7.66           N 0
+ATOM   1548   CB GLN   474     -11.160  38.257  41.522  0.00  0.00           C 0
+ATOM   1547    O GLN   474      -8.114  38.855  40.965  0.74  9.64           O 0
+ATOM    442  OD1 ASN   342      -8.618  45.877  36.541  0.60  4.29           O 0
+ATOM   1569   CG GLU   476      -9.113  41.820  33.422  0.00  0.00           C 0
+ATOM   1558    C VAL   475      -8.652  38.563  37.037  0.00  0.00           C 0
+ATOM   1556    N VAL   475      -8.925  37.681  39.250  0.62  1.09           N 0
+ATOM    443  ND2 ASN   342      -8.659  47.669  35.177  0.00  0.00           N 0
+ATOM    441   CG ASN   342      -9.005  47.003  36.275  0.00  0.00           C 0
+ATOM   1559    O VAL   475      -9.572  37.923  36.612  0.21  8.57           O 0
+ATOM   1546    C GLN   474      -8.893  38.030  40.518  0.00  0.00           C 0
+TER
+END
