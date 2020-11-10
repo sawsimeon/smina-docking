@@ -1,0 +1,58 @@
+MODEL 1
+REMARK minimizedAffinity -13.1146717
+REMARK minimizedRMSD -1
+REMARK  Name = 1OYT-FSN.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  C4_4
+REMARK    2  A    between atoms: C7_7  and  C10_10
+REMARK    3  A    between atoms: N19_19  and  C23_23
+REMARK    4  A    between atoms: C23_23  and  C24_24
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 FSN H 501      15.884 -11.288  19.898  0.00  0.00    +0.000 C 
+ATOM      2  N11 FSN H 501      15.822 -12.397  18.851  0.00  0.00    +0.000 NA
+ATOM      3  C12 FSN H 501      14.986 -11.964  17.694  0.00  0.00    +0.000 C 
+ATOM      4  C13 FSN H 501      15.905 -12.163  16.445  0.00  0.00    +0.000 C 
+ATOM      5  C14 FSN H 501      17.264 -11.633  16.925  0.00  0.00    +0.000 C 
+ATOM      6  C15 FSN H 501      17.237 -12.152  18.305  0.00  0.00    +0.000 C 
+ATOM      7  C16 FSN H 501      18.266 -11.755  19.363  0.00  0.00    +0.000 C 
+ATOM      8  C17 FSN H 501      19.092 -12.842  19.882  0.00  0.00    +0.000 C 
+ATOM      9  O18 FSN H 501      20.071 -13.327  19.335  0.00  0.00    +0.000 OA
+ATOM     10  N19 FSN H 501      18.565 -13.260  21.138  0.00  0.00    +0.000 N 
+ATOM     11  C20 FSN H 501      17.440 -12.480  21.487  0.00  0.00    +0.000 C 
+ATOM     12  O21 FSN H 501      16.730 -12.748  22.439  0.00  0.00    +0.000 OA
+ATOM     13  C22 FSN H 501      17.270 -11.384  20.508  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  17
+ATOM     14  C4  FSN H 501      12.549 -11.000  22.547  0.00  0.00    +0.000 A 
+ATOM     15  C5  FSN H 501      13.324  -9.857  22.323  0.00  0.00    +0.000 A 
+ATOM     16  C6  FSN H 501      14.410  -9.925  21.444  0.00  0.00    +0.000 A 
+ATOM     17  C7  FSN H 501      14.693 -11.155  20.799  0.00  0.00    +0.000 A 
+ATOM     18  C8  FSN H 501      13.922 -12.290  21.029  0.00  0.00    +0.000 A 
+ATOM     19  C9  FSN H 501      12.845 -12.233  21.903  0.00  0.00    +0.000 A 
+BRANCH  14  22
+ATOM     20  N1  FSN H 501      10.665 -12.064  23.709  0.00  0.00    +0.000 N 
+ATOM     21  N2  FSN H 501      11.016  -9.826  24.084  0.00  0.00    +0.000 N 
+ATOM     22  C3  FSN H 501      11.408 -10.958  23.447  0.00  0.00    +0.000 C 
+ATOM     23  H01 FSN H 501       9.878 -12.007  24.341  0.00  0.00    +0.000 HD
+ATOM     24  H02 FSN H 501      10.898 -12.944  23.272  0.00  0.00    +0.000 HD
+ATOM     25  H03 FSN H 501      11.523  -8.964  23.939  0.00  0.00    +0.000 HD
+ATOM     26  H04 FSN H 501      10.218  -9.844  24.703  0.00  0.00    +0.000 HD
+ENDBRANCH  14  22
+ENDBRANCH   1  17
+BRANCH  10  27
+ATOM     27  C23 FSN H 501      18.908 -14.469  21.887  0.00  0.00    +0.000 C 
+BRANCH  27  28
+ATOM     28  C24 FSN H 501      19.845 -14.128  23.014  0.00  0.00    +0.000 A 
+ATOM     29  C25 FSN H 501      21.226 -13.965  22.747  0.00  0.00    +0.000 A 
+ATOM     30  C26 FSN H 501      22.125 -13.679  23.806  0.00  0.00    +0.000 A 
+ATOM     31  C30 FSN H 501      21.560 -13.570  25.085  0.00  0.00    +0.000 A 
+ATOM     32  C31 FSN H 501      20.195 -13.713  25.369  0.00  0.00    +0.000 A 
+ATOM     33  C32 FSN H 501      19.326 -13.995  24.316  0.00  0.00    +0.000 A 
+ATOM     34  F29 FSN H 501      22.347 -13.319  26.146  0.00  0.00    +0.000 F 
+ENDBRANCH  27  28
+ENDBRANCH  10  27
+TORSDOF 4
+ENDMDL
